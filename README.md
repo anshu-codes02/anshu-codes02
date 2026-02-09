@@ -102,11 +102,11 @@ Hey there! I'm **Anshu Gupta**, a final-year IT student from **IIITM Gwalior, In
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshu-codes02&show_icons=true&theme=dark" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshu-codes02&show_icons=true&theme=transparant" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-codes02&layout=compact&theme=dark" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-codes02&layout=compact&theme=transparent" alt="languages"/>
 </p>
 
 ---
